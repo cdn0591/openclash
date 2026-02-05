@@ -1,5 +1,3 @@
-DOMAIN,api-ipv4.ip.sb
-DOMAIN,api.ipify.org
 IP-CIDR,192.168.100.2/32,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
@@ -8,3 +6,4 @@ IP-CIDR,127.0.0.0/8,no-resolve
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,immersivetranslate.com
+
