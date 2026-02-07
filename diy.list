@@ -4,7 +4,8 @@
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 # 国外域名
-DOMAIN-SUFFIX,eu
+#DOMAIN-SUFFIX,eu
 # 国外域名关键字
-DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,paoluz
+#DOMAIN-KEYWORD,1e100
+#DOMAIN-KEYWORD,paoluz
+DOMAIN-KEYWORD,luxrealm
