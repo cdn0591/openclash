@@ -6,4 +6,6 @@ IP-CIDR,127.0.0.0/8,no-resolve
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,immersivetranslate.com
+SRC-IP-CIDR,172.18.0.7/32
+
 
