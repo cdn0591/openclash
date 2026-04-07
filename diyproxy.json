@@ -8,19 +8,18 @@
       ]
     },
     {
-      "domain_suffix": [
-        ".lan",
-     ".luxrealm",
-     ".openrouter",
-     ".gamsgo",
-     ".brave",
-     ".oxycontin",
-     ".claude",
-     ".1e100",
-     ".paoluz",
-      ".emby",
-     ".rochub",
-     ".zdz"
+      "domain_keyword": [
+     “luxrealm",
+     "openrouter",
+     "gamsgo",
+     "brave",
+     "oxycontin",
+     "claude",
+     "1e100",
+     "paoluz",
+     "emby",
+     "rochub",
+     "zdz"
       ]
     },
     {
