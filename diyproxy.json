@@ -1,7 +1,6 @@
 {
   "version": 3,
-  "rules": [
-    {
+  "rules": [    {
       "domain": [
               
         "xxx.com"
@@ -24,8 +23,6 @@
     {
       "domain_regex": [
         "^aaa\\.[^.]+\\.com"
-      
-      ]
+        ]
     }
-  ]
-}
+ }
